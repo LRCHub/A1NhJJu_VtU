@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "LIE on",
+  "base_artist": "秋山黄色",
+  "createdAt": "2026-03-02T10:56:34.024006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It Became A Lie On You",
+      "artist": "Shiny Toy Guns",
+      "has_synced": true,
+      "path": "select/01_It_Became_A_Lie_On_You_Shiny_Toy_Guns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lie On Lie",
+      "artist": "Chalk FarM",
+      "has_synced": false,
+      "path": "select/02_Lie_On_Lie_Chalk_FarM.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lie on Me",
+      "artist": "Lil He77",
+      "has_synced": true,
+      "path": "select/03_Lie_on_Me_Lil_He77.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Lie on My Head",
+      "artist": "Bawo",
+      "has_synced": true,
+      "path": "select/04_Don't_Lie_on_My_Head_Bawo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Lie on Grass",
+      "artist": "Project Pitchfork",
+      "has_synced": false,
+      "path": "select/05_Lie_on_Grass_Project_Pitchfork.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lie on Grass (remastered)",
+      "artist": "Project Pitchfork",
+      "has_synced": false,
+      "path": "select/06_Lie_on_Grass_(remastered)_Project_Pitchfork.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LIE on",
+      "artist": "Kiro Akiyama",
+      "has_synced": false,
+      "path": "select/07_LIE_on_Kiro_Akiyama.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lie on Me",
+      "artist": "Lil He77",
+      "has_synced": true,
+      "path": "select/08_Lie_on_Me_Lil_He77.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LIE on",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/09_LIE_on_秋山黄色.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let My Love Lie on Your Life",
+      "artist": "Eliot Sumner",
+      "has_synced": true,
+      "path": "select/10_Let_My_Love_Lie_on_Your_Life_Eliot_Sumner.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't lie on me",
+      "artist": "Watershed",
+      "has_synced": true,
+      "path": "select/11_Don't_lie_on_me_Watershed.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Lie on to Me",
+      "artist": "Big Star",
+      "has_synced": true,
+      "path": "select/12_Don't_Lie_on_to_Me_Big_Star.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lie on Lie",
+      "artist": "Chalk Farm",
+      "has_synced": true,
+      "path": "select/13_Lie_on_Lie_Chalk_Farm.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIE on",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_LIE_on_秋山黄色.txt"
+    }
+  ]
+}
